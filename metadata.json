@@ -1,0 +1,6 @@
+{
+  "name": "แบบประเมินความพึงพอใจการอบรม & Live Dashboard",
+  "description": "ระบบเก็บแบบประเมินความพึงพอใจการอบรมแบบเรียลไทม์ พร้อมแดชบอร์ดฉายโปรเจกเตอร์ แสดงผลสถิติและข้อเสนอแนะทันที",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
